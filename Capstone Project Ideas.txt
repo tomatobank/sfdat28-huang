@@ -1,20 +1,20 @@
 Capstone Project Ideas
 
 1. Predict which character a player will select in League of Legends game
-    Data:
+    Data: API and scrapped from Wiki
         - What characters are popular in professional play ("pro meta characters") - Manually collected by a website
         - What role player is currently assigned to - Potentially from API
         - What are the players' previous most played characters?
 
 2. Predict how likely a user on Twitch will come back in the next week
-    Data:
+    Data: Database at work
         - Video metrics - number of videos watched, number of minutes watched, number of channels watched
         - What type of content did they watch? What game, esports/nonesports?
         - Geo metrics
         - Platform / player type
 
 3. Understand what helps a new broadcaster become successful
-    Data:
+    Data:Database at work
         - Game(s) broadcasted
         - Geo and Language
         - How often they broadcast - number of days, minutes per broadcast, total minutes
